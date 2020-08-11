@@ -1,0 +1,67 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q300292,Jeffrey Donaldson,Q215519,Democratic Unionist Party,19586,Q30173038,General election 2019,1
+,Sorcha Eastwood,Q244927,Alliance Party of Northern Ireland,13087,Q30173038,General election 2019,2
+Q24083709,Robbie Butler,Q841045,Ulster Unionist Party,8606,Q30173038,General election 2019,3
+,Ally Haydock,Q175443,Social Democratic and Labour Party,1758,Q30173038,General election 2019,4
+,Gary McCleave,Q76382,Sinn Féin,1098,Q30173038,General election 2019,5
+,Gary Hynds,Q7058484,Northern Ireland Conservatives,955,Q30173038,General election 2019,6
+,Alan Love,Q10647,UK Independence Party,315,Q30173038,General election 2019,7
+Q300292,Jeffrey Donaldson,Q215519,Democratic Unionist Party,26762,Q25052149,General election 2017,1
+Q24083709,Robbie Butler,Q841045,Ulster Unionist Party,7533,Q25052149,General election 2017,2
+,Aaron McIntyre,Q244927,Alliance Party of Northern Ireland,4996,Q25052149,General election 2017,3
+Q28868438,Pat Catney,Q175443,Social Democratic and Labour Party,3384,Q25052149,General election 2017,4
+,Jacqui Russell,Q76382,Sinn Féin,1567,Q25052149,General election 2017,5
+,Ian Nickels,Q7058484,Northern Ireland Conservatives,462,Q25052149,General election 2017,6
+,Jonny Orr,Q327591,Independent (politician),222,Q25052149,General election 2017,7
+Q300292,Jeffrey Donaldson,Q215519,Democratic Unionist Party,19055,Q3586935,General election 2015,1
+,Alexander Redpath,Q841045,Ulster Unionist Party,6055,Q3586935,General election 2015,2
+Q7839296,Trevor Lunn,Q244927,Alliance Party of Northern Ireland,5544,Q3586935,General election 2015,3
+Q28868438,Pat Catney,Q175443,Social Democratic and Labour Party,2500,Q3586935,General election 2015,4
+,Alan Love,Q10647,UK Independence Party,2200,Q3586935,General election 2015,5
+,Samuel Morrison,Q985076,Traditional Unionist Voice,1887,Q3586935,General election 2015,6
+,Jacqui McGeough,Q76382,Sinn Féin,1144,Q3586935,General election 2015,7
+,Jonny Orr,Q327591,Independent (politician),756,Q3586935,General election 2015,8
+,Helen Osborne,Q7058484,Northern Ireland Conservatives,654,Q3586935,General election 2015,9
+Q300292,Jeffrey Donaldson,Q215519,Democratic Unionist Party,18199,Q215622,General election 2010,1
+Q5221639,Daphne Trimble,Q7879942,Ulster Conservatives and Unionists,7713,Q215622,General election 2010,2
+Q7839296,Trevor Lunn,Q244927,Alliance Party of Northern Ireland,4174,Q215622,General election 2010,3
+,Keith Harbinson,Q985076,Traditional Unionist Voice,3154,Q215622,General election 2010,4
+,Brian Heading,Q175443,Social Democratic and Labour Party,1835,Q215622,General election 2010,5
+Q7149639,Paul Butler,Q76382,Sinn Féin,1465,Q215622,General election 2010,6
+Q300292,Jeffrey Donaldson,Q215519,Democratic Unionist Party,23289,Q428598,General election 2005,1
+Q4867218,Basil McCrea,Q841045,Ulster Unionist Party,9172,Q428598,General election 2005,2
+Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,4316,Q428598,General election 2005,3
+Q7149639,Paul Butler,Q76382,Sinn Féin,3197,Q428598,General election 2005,4
+Q7145695,Patricia Lewsley,Q175443,Social Democratic and Labour Party,2598,Q428598,General election 2005,5
+Q300292,Jeffrey Donaldson,Q841045,Ulster Unionist Party,25966,Q590740,General election 2001,1
+Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,7624,Q590740,General election 2001,2
+Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,6164,Q590740,General election 2001,3
+Q7145695,Patricia Lewsley,Q175443,Social Democratic and Labour Party,3462,Q590740,General election 2001,4
+Q7149639,Paul Butler,Q76382,Sinn Féin,2725,Q590740,General election 2001,5
+Q300292,Jeffrey Donaldson,Q841045,Ulster Unionist Party,24560,Q918503,General election 1997,1
+Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,7635,Q918503,General election 1997,2
+Q5346750,Edwin Poots,Q215519,Democratic Unionist Party,6005,Q918503,General election 1997,3
+Q5289533,Dolores Kelly,Q175443,Social Democratic and Labour Party,3436,Q918503,General election 1997,4
+,Stuart E. Sexton,Q7058484,Northern Ireland Conservatives,1212,Q918503,General election 1997,5
+Q7634245,Sue Ramsey,Q76382,Sinn Féin,1110,Q918503,General election 1997,6
+,Mrs. Frances McCarthy,Q1860218,Workers' Party of Ireland,203,Q918503,General election 1997,7
+,Hugh Finlay,Q491782,Natural Law Party,149,Q918503,General election 1997,8
+Q1680843,James Molyneaux,Q841045,Ulster Unionist Party,29772,Q543609,General election 1992,1
+Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,6207,Q543609,General election 1992,2
+,Hugh Lewsley,Q175443,Social Democratic and Labour Party,4626,Q543609,General election 1992,3
+,Timothy R. Coleridge,Q7058484,Northern Ireland Conservatives,4423,Q543609,General election 1992,4
+,Patrick Joseph Rice,Q76382,Sinn Féin,3346,Q543609,General election 1992,5
+,Mrs. Ann Marie Lowry,Q1860218,Workers' Party of Ireland,582,Q543609,General election 1992,6
+Q1680843,James Molyneaux,Q841045,Ulster Unionist Party,29101,Q918472,General election 1987,1
+Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,5728,Q918472,General election 1987,2
+,Billy McDonnell,Q175443,Social Democratic and Labour Party,2888,Q918472,General election 1987,3
+,Patrick Joseph Rice,Q76382,Sinn Féin,2656,Q918472,General election 1987,4
+Q6245437,John Lowry,Q1860218,Workers' Party of Ireland,1215,Q918472,General election 1987,5
+Q1680843,James Molyneaux,Q841045,Ulster Unionist Party,32514,Q20979160,1986 Lagan Valley by-election,1
+Q6245437,John Lowry,Q1860218,Workers' Party of Ireland,3328,Q20979160,1986 Lagan Valley by-election,2
+Q1680843,James Molyneaux,Q841045,Ulster Unionist Party,24017,Q918466,General election 1983,1
+Q8005270,William John Beattie,Q215519,Democratic Unionist Party,6801,Q918466,General election 1983,2
+Q7440740,Seamus Close,Q244927,Alliance Party of Northern Ireland,4593,Q918466,General election 1983,3
+,Cormac Joseph Boomer,Q175443,Social Democratic and Labour Party,2603,Q918466,General election 1983,4
+,Richard McAuley,Q76382,Sinn Féin,1751,Q918466,General election 1983,5
+,Gerard Loughlin,Q1860218,Workers' Party of Ireland,809,Q918466,General election 1983,6
